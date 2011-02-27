@@ -1,0 +1,7 @@
+name: NaviaChar
+main: org.navia.java.plugins.mcandze.NaviaChar
+version: 0.0.1
+commands:
+  char:
+    description: Char.
+    usage: /<command>
